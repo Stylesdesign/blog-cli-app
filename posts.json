@@ -2,5 +2,17 @@
   {
     "title": "My First Post",
     "content": "This is my blog"
+  },
+  {
+    "title": "Test Title",
+    "content": "This is a test"
+  },
+  {
+    "title": "My Test Post",
+    "content": "My First Cli blog"
+  },
+  {
+    "title": "update post",
+    "content": "update content"
   }
 ]
