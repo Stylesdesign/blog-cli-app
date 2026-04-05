@@ -9,3 +9,4 @@ The system is used by individuals who want to manage blog entries.
 ![UML Diagram](Blogmanagementsystem.png)
 
 ## Code Implementation
+See oop-blog.js
